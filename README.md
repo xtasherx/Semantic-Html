@@ -1,2 +1,4 @@
 # Semantic-Html
-Refactor html to make code more accessible. 
+===============
+## Homework 1 - Refactor
+Refactored code to ensure it met accesibility standards.
